@@ -1,0 +1,43 @@
+project structure
+
+landing page
+	customer
+		if not signed in
+			intro - welcome
+			desription of options
+			option to sign up or in
+		if signed in
+			intro - welcome
+			option to logout
+			settings
+			options for the site
+				available services
+				available staff - bio
+				book a service
+	staff
+		if not signed in
+			intro - welcome
+			desription of how to use the site
+			option to sign up or in
+		if signed in
+			messages
+			options use
+				all staff
+					veiw schedule
+					settings
+					logout
+					request time off
+					view client details
+				managers
+					add/update/disable service branch
+					add/update/disable service
+					change site details
+					accept vacation/time-off time for staff
+					disable/update account details
+				superuser
+					admin usage
+					change major account details
+				available services
+				available staff - bio
+				book a service
+
